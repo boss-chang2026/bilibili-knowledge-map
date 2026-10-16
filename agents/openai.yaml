@@ -1,0 +1,4 @@
+interface:
+  display_name: "B站视频知识地图"
+  short_description: "把UP主或合集视频重组成可展开的学习看板，附文字步骤与原片时间出处"
+  default_prompt: "使用 $bilibili-knowledge-map 将给定的B站主页或合集整理成可展开的知识地图，并附文字底稿和原片时间出处。"
